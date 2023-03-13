@@ -1,6 +1,14 @@
 # Digital Humanities 140: Coding for the Humanities
 DH 140 Final Project
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jesstsomethoughts/dh140/HEAD)
+
+My project aims to analyze how effective the CDC's Social Vulnerability Index (SVI) is in representing Native Hawaiian or Pacific Islander (NHPI) populations, which have been historically underrepresented in data. I will be comparing the highest risk quartile areas based on the SVI with Census NHPI demographic data from either the Decennial Census or American Community Survey tables on a statewide and county level in California (the state with the highest NHPI population after Hawaii). I was motivated to further research this topic from working in the NHPI Data Policy Lab and from community feedback.
+
+The basic question I want to answer is if NHPI populations are underrepresented in the SVI (given that they don't explicitly factor NHPI populations in the index calculation) and to what extent. I want to further analyze the specific geographical areas wherein the largest disparities exist.
+
+Links to my data can be found at the following links: https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html and https://data.census.gov/
+
 I'm starting out by brainstorming potential ideas for my final project, as well as gathering data visualizations and articles that I can take inspiration from. 
 
 -----
