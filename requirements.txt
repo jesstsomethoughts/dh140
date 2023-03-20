@@ -1,7 +1,4 @@
 pandas
 matplotlib
-cenpy
-census
-us
-plotly
 geopandas
+folium

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "vary": "Accept-Encoding, Origin",
+    "x-amz-cf-pop": "DFW56-P7",
+    "access-control-allow-origin": "*",
+    "date": "Sun, 09 Oct 2022 22:08:08 GMT",
+    "via": "http/2 edgeproxy-h",
+    "x-amz-version-id": "IRPcuqUVmY0IKkC5252nvXIAZzab2bhg",
+    "accept-ranges": "bytes",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-replication-status": "FAILED",
+    "last-modified": "Wed, 24 Aug 2022 21:03:18 GMT",
+    "x-amz-cf-id": "KbFIqJ_XaeYvZrpm4tH-Rfh9EMx8ghGA8G4-FXrHnWkS_eK0mc5NOw==",
+    "age": "9823291",
+    "x-cache": "Hit from cloudfront",
+    "content-length": "1306",
+    "content-type": "application/typescript; charset=utf-8",
+    "server": "deno/gcp-us-south1",
+    "etag": "\"de4774e1ebebc14bfe6dccf6af43e1aa\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://deno.land/std@0.153.0/collections/permutations.ts",
+  "now": {
+    "secs_since_epoch": 1675176578,
+    "nanos_since_epoch": 864548244
+  }
+}

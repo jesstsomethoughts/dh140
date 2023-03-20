@@ -3,15 +3,36 @@ DH 140 Final Project
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jesstsomethoughts/dh140/HEAD)
 
-My project aims to analyze how effective the CDC's Social Vulnerability Index (SVI) is in representing Native Hawaiian or Pacific Islander (NHPI) populations, which have been historically underrepresented in data. I will be comparing the highest risk quartile areas based on the SVI with Census NHPI demographic data from either the Decennial Census or American Community Survey tables on a statewide and county level in California (the state with the highest NHPI population after Hawaii). I was motivated to further research this topic from working in the NHPI Data Policy Lab and from community feedback.
-
-The basic question I want to answer is if NHPI populations are underrepresented in the SVI (given that they don't explicitly factor NHPI populations in the index calculation) and to what extent. I want to further analyze the specific geographical areas wherein the largest disparities exist.
-
-Links to my data can be found at the following links: https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html and https://data.census.gov/
-
-I'm starting out by brainstorming potential ideas for my final project, as well as gathering data visualizations and articles that I can take inspiration from. 
+Blog Pages:
+[Main Blog Page]()
+[Overall SVI Map]()
 
 -----
+
+My project aims to analyze how effective the CDC's Social Vulnerability Index (SVI) is in
+representing Native Hawaiian or Pacific Islander (NHPI) populations, which have been historically
+underrepresented in data. Currently, the SVI computes a combination of Census variables into one index that helps inform government officials about communities in need before, during, or after disasters. I will be comparing the SVI values for various geographical areas, specifically California counties and Census tracts, with the relative population of NHPIs in that given area. Although I hope to expand my research to the US as a whole, I decided to zoom in on California for now due to Jupyter memory and time constraints. Outside of Hawaii, California is the state with the highest NHPI population in the US.
+
+I was motivated to further research this topic from working in the NHPI Data Policy Lab and from community feedback. Ultimately, my goals are to: 
+1. Research how the SVI is computed (Census variables and how they are calculated into an index score)
+2. Assess how accurately the SVI represents NHPIs
+3. Disaggregate the data to create a more equitable index specifically for NHPI populations
+
+Some questions I want to answer are: 
+- How is race/ethnicity, specifically NHPI populations, calculated and factored in the SVI?
+- Are NHPI populations underrepresented or overrepresented in the SVI, and to what extent? What about other racial/ethnic minorities? 
+- What geographical trends appear with respect to SVI scores and their over or underrepresentation of NHPI populations? 
+- Where do the largest disparities exist? Are there other factors that might cause this? 
+
+And ultimately: 
+
+**How can the SVI be improved or complemented in order to most accurately represent the needs of NHPI communities?**
+
+I obtined my data from the [CDC SVI website](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html) and the [Census Reporter](https://censusreporter.org/), which takes data from the [official Census website](https://data.census.gov/).
+
+-----
+
+I started out by brainstorming potential ideas for my final project, as well as gathering data visualizations and articles that I can take inspiration from. 
 
 Some data visualizations of interest below:
 
