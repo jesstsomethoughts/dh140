@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "server": "deno/gcp-us-south1",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-amz-cf-pop": "DFW56-P7",
+    "x-amz-version-id": "gRcgnC8pQWmv1QmroA3fuabgQ.nZg3PP",
+    "x-amz-replication-status": "FAILED",
+    "last-modified": "Wed, 24 Aug 2022 21:03:18 GMT",
+    "x-amz-cf-id": "-KI0I6hYngI5RzapYMZxCDX8XnoeW92DTUBJCuydXTOYNf_8glHncw==",
+    "date": "Thu, 06 Oct 2022 06:15:57 GMT",
+    "via": "http/2 edgeproxy-h",
+    "cache-control": "public, max-age=31536000, immutable",
+    "vary": "Accept-Encoding, Origin",
+    "etag": "\"480c011ae67524efb1e8c4c5ff91ee8d\"",
+    "accept-ranges": "bytes",
+    "x-cache": "Hit from cloudfront",
+    "content-length": "5500",
+    "access-control-allow-origin": "*",
+    "age": "10139622"
+  },
+  "url": "https://deno.land/std@0.153.0/crypto/keystack.ts",
+  "now": {
+    "secs_since_epoch": 1675176578,
+    "nanos_since_epoch": 202760865
+  }
+}
