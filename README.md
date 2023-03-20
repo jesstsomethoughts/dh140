@@ -4,8 +4,8 @@ DH 140 Final Project
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jesstsomethoughts/dh140/HEAD)
 
 Blog Pages:
-[Main Blog Page]()
-[Overall SVI Map]()
+[Main Blog Page](https://jesstsomethoughts.github.io/dh140blog/posts/DH140_FinalBlog.html)
+[Overall SVI Map](https://jesstsomethoughts.github.io/dh140_mapblog/posts/map1.html)
 
 -----
 
